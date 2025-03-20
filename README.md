@@ -1,0 +1,1 @@
+# Singleton-and-Delegate-in-Swift
